@@ -19,7 +19,7 @@ import org.jc.anwsers.util.PaperReader;
  */
 public class Exam {
 	public static void main(String... args) {
-		Exam exam = new Exam("D://xxx");/// ←←修改这里！！！
+		Exam exam = new Exam("/lib");/// ←←修改这里！！！
 		exam.run();
 	}
 
